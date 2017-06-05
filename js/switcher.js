@@ -1,4 +1,4 @@
-jQuery(document).ready(function($){
+		jQuery(document).ready(function($){
 			$('.preset-list li a').on('click',function(event){
 				event.preventDefault();
 				var color = $(this).data('color'),
