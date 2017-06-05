@@ -16,7 +16,7 @@ a, .nav li a:hover,
 .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover
 .language-dropdown i.fa-globe,
 .sign-in li i, 
-.nav-right .dropdown-menu li a:hover, 
+./*nav-right .dropdown-menu li a:hover,*/ 
 .sign-in li a:hover, 
 .category-item:hover .category-quantity,
 .category-item:hover .category-title, 
@@ -128,8 +128,7 @@ a.verified i,
 .feedback .btn:hover, 
 .profile a.btn:hover, 
 .pagination>li>a:hover,
-.pagination>.active>a, 
-.pagination>.active>a:focus, 
+.pagination>.active>a, .pagination>.active>a:focus, 
 .pagination>.active>a:hover, 
 #something-sell a.btn:hover,
  .buttons a.btn:hover  {

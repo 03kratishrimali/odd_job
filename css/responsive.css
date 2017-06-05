@@ -1,3 +1,4 @@
+
 /* md */
 @media (min-width: 992px) and (max-width: 1199px) {
 	.banner-form .form-control, 
@@ -12,7 +13,7 @@
 	}
 	.category-list .category-item, 
 	.single-service {
-		width:33%;
+		width:100%;
 	}
 	.banner-form-full.banner-form input {
 		min-width:334px;
@@ -972,3 +973,4 @@
 	}
 
 }
+
